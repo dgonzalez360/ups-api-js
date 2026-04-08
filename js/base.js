@@ -9,12 +9,12 @@ import { TrackingAPI } from "./tracking";
 /**
  * The base auth URL used for the OAuth token request.
  */
-const AUTH_URL = "https://onlinetools.ups.com/";
+const AUTH_URL = "https://wwwcie.ups.com/";
 
 /**
  * The base URL used for API requests.
  */
-const BASE_URL = "https://onlinetools.ups.com/api/";
+const BASE_URL = "https://wwwcie.ups.com/api/";
 
 /**
  * The version of the API to use.
